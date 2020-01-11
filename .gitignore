@@ -5,6 +5,7 @@
 
 **/*.db
 **/*.log
+**/*.pyc
 **/*.state
 
 secrets.yaml
