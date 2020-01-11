@@ -1,7 +1,10 @@
 .HA_VERSION
+.storage
 .uuid
 .vscode
 
+**/*.db
 **/*.log
+**/*.state
 
 secrets.yaml
