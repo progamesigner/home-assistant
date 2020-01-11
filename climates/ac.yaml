@@ -1,0 +1,4 @@
+platform: smartir
+name: Air Conditioner
+device_code: 11020
+controller_data: !secret broadlink_host
