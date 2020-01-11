@@ -1,1 +1,1 @@
-climate: !include_dir_list climates
+climate: !include_dir_list ../climates
