@@ -1,0 +1,7 @@
+.HA_VERSION
+.uuid
+.vscode
+
+**/*.log
+
+secrets.yaml
