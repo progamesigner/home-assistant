@@ -1,8 +1,2 @@
 homeassistant:
-  elevation: !secret elevation
-  latitude: !secret latitude
-  longitude: !secret longitude
-  name: !secret name
-  time_zone: !secret timezone
-  unit_system: !secret unit
   packages: !include_dir_named packages
