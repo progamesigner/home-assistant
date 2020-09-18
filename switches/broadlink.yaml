@@ -1,5 +1,4 @@
 platform: broadlink
-host: !secret broadlink_host
 mac: !secret broadlink_mac
 timeout: 15
 friendly_name: Broadlink IR Pro
