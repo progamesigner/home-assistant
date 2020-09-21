@@ -1,7 +1,7 @@
 platform: broadlink
 mac: !secret broadlink_mac
 timeout: 15
-friendly_name: Broadlink IR Pro
+friendly_name: Broadlink RM4 Pro
 switches:
   hdmi_main_1:
     friendly_name: Main PS4
