@@ -1,5 +1,4 @@
 http:
-  base_url: !secret http_base_url
   server_port: !secret http_server_port
 
   ip_ban_enabled: true
