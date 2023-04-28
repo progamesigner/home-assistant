@@ -1,11 +1,4 @@
 .HA_VERSION
 .storage
-.uuid
-.vscode
-
-**/*.db
-**/*.log
-**/*.pyc
-**/*.state
-
-secrets.yaml
+*.db*
+*.log*

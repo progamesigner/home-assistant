@@ -1,1 +1,0 @@
-climate: !include_dir_list ../climates
